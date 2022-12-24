@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "nombre_magique": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Gasco\\Desktop\\Developpement\\C#\\Udemy\\nombre_magique"
+    }
+  }
+}
